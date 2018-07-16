@@ -1,2 +1,3 @@
 # interlakeXC
-page for the Interlake website
+page for the Interlake cross country team's website
+thanks github
